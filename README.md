@@ -4,10 +4,6 @@ An enterprise-grade, unsupervised Machine Learning tool designed to detect unaut
 
 Built as a code sample for the **MLH Fellowship (Software Engineering Track)**.
 
-## 🚀 The Dashboard
-*(Add your first screenshot here: `![Dashboard](link-to-image)`)*
-*(Add your second screenshot here: `![Threats](link-to-image)`)*
-
 ## 🧠 How It Works
 This project uses the **Isolation Forest** algorithm (an unsupervised Machine Learning model) to hunt for anomalies in cloud environments. Unlike traditional rule-based security tools, this model does not need to know what a "hacker" looks like; it mathematically isolates data points that deviate from normal baseline behavior.
 
